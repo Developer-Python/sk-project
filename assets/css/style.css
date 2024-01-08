@@ -664,7 +664,7 @@ a:hover {
 
 
 #gallery{
-    background: url(../img/gallery-bg1.png) no-repeat;
+    background: url("https://github.com/Developer-Python/meal-day/blob/main/assets/background/bg-10.jpg?raw=true") no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }

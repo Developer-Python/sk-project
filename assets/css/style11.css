@@ -560,7 +560,7 @@ a:hover {
 /////////////////////////////////////////////////////////////////////*/
 
 #banner {
-    background: url("/assets/img/bg-1.jpg");
+    background: url("/assets/img/bg1.jpg");
     background-size: cover;
     padding-top: 80px;
     background-attachment: fixed;
@@ -637,7 +637,7 @@ a:hover {
 /////////////////////////////////////////////////////////////////////*/
 
 .bg-1 {
-  background-image: url("/assets/img/bg-3.jpg");
+  background-image: url("/assets/img/bg3.jpg");
   background-repeat: no-repeat;
   background-size: contain;
   box-shadow: 20px 20px 20px 0px #3c3c3c;
@@ -645,7 +645,7 @@ a:hover {
   background-color:#c9fcc0;
 }
 .bg-2 {
-  background-image: url("/assets/img/bg-5.jpg");
+  background-image: url("/assets/img/bg5.jpg");
   background-repeat: no-repeat;
   background-size: contain;
   box-shadow: 20px 20px 20px 0px #3c3c3c;
@@ -653,7 +653,7 @@ a:hover {
   background-color:#f9cbcb;
 }
 .bg-3 {
-  background-image: url("/assets/img/bg-6.jpg");
+  background-image: url("/assets/img/bg6.jpg");
   background-repeat: no-repeat;
   background-size: contain;
   box-shadow: 20px 20px 20px 0px #3c3c3c;
@@ -1149,5 +1149,5 @@ span.footer-link {
 
 
 .fa-angle-right {
-  
+
 }

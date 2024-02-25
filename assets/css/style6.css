@@ -703,7 +703,7 @@ a:hover {
 /////////////////////////////////////////////////////////////////////*/
 
 #banner {
-    background: url("/assets/img/background-1.jpg");
+    background: url("https://github.com/Developer-Python/sk-project/blob/v0.1/assets/img/background-1.jpg?raw=true");
     background-size: cover;
     padding-top: 80px;
     background-attachment: fixed;

@@ -1299,6 +1299,11 @@ span.footer-link {
 /*480px*/
 @media (min-width: 300px) and (max-width: 620px) {
 
+  .block {
+      margin: 0px 0px 0px -10px !important;
+  }
+
+
   .headings h1 {
       font-size: 26px;
   }

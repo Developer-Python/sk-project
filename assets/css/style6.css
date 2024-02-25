@@ -1299,8 +1299,19 @@ span.footer-link {
 /*480px*/
 @media (min-width: 300px) and (max-width: 620px) {
 
+  .headings h1 {
+      font-size: 26px;
+  }
+
+  .headings p {
+    font-size: 14px;
+  }
+
   .polo-btn {
     width: 290px !important;
+    width: -webkit-fill-available;
+    font-size: 18px !important;
+    margin: 0px 0px 20px !important;
   }
 
   .block-title {
@@ -1309,7 +1320,10 @@ span.footer-link {
   }
 
   .block-video {
-    width: 300px !important;
+    width: 310px !important;
+  }
+  .fa-desktop {
+    font-size: 20px;
   }
 
 }

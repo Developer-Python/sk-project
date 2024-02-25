@@ -1308,7 +1308,7 @@ span.footer-link {
   }
 
   .polo-btn {
-    width: 290px !important;
+    width: auto !important;
     width: -webkit-fill-available;
     font-size: 18px !important;
     margin: 0px 0px 20px !important;
@@ -1320,7 +1320,7 @@ span.footer-link {
   }
 
   .block-video {
-    width: 310px !important;
+    width: 320px !important;
   }
   .fa-desktop {
     font-size: 20px;
